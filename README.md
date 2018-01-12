@@ -3,9 +3,7 @@ The purpose of this repository is to compile resources for newer members to expl
 
 # Python
 1. Useful Sources to Learn Python:
-  - This is an intro course from UC Berkeley (CS61a) going over Python and the basics of CS. Reading links and resources are useful for those with no previous experience in programming. 
-  
-  https://cs61a.org/ 
+  - This is an intro course from UC Berkeley (CS61a) going over Python and the basics of CS. Reading links and resources are      useful for those with no previous experience in programming. https://cs61a.org/ 
 
 2. Visualizing in Python:
   - Visualizing with Seaborn: https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html 
