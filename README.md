@@ -9,9 +9,12 @@ The purpose of this repository is to compile resources for newer members to expl
   - Visualizing with Seaborn: https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html 
 
 # Terminal
-1. Vim cheat sheet (terminal)
+1. Vim cheat sheet (terminal):
 https://vim.rtorr.com/ 
 
+2. Useful website which explains commands and flags:
+https://explainshell.com/
+
 # AMBER
-1. Additional AMBER tutorials from the Rizzo lab (not the official ones)
+1. Additional AMBER tutorials from the Rizzo lab (not the official ones): 
 http://ringo.ams.sunysb.edu/index.php/AMBER_Tutorials
