@@ -18,3 +18,10 @@ https://explainshell.com/
 # AMBER
 1. Additional AMBER tutorials from the Rizzo lab (not the official ones): 
 http://ringo.ams.sunysb.edu/index.php/AMBER_Tutorials
+
+# Programs
+1. Text editor: http://www.sublimetext.com/
+2. Mac terminal emulator (better than default): https://iterm2.com/
+3. LigPLOT+ (ligand-protein diagrams): https://www.ebi.ac.uk/thornton-srv/software/LigPlus/ 
+4. Chimera (visualization software): https://www.cgl.ucsf.edu/chimera/download.html
+5. VMD (visualization software): http://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
