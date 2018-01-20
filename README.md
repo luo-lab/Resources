@@ -25,3 +25,9 @@ http://ringo.ams.sunysb.edu/index.php/AMBER_Tutorials
 3. LigPLOT+ (ligand-protein diagrams): https://www.ebi.ac.uk/thornton-srv/software/LigPlus/ 
 4. Chimera (visualization software): https://www.cgl.ucsf.edu/chimera/download.html
 5. VMD (visualization software): http://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
+
+# If you still use Windows, poor thing...
+
+Why Windows sucks: 
+https://www.lifewire.com/operating-systems-unix-vs-windows-2180225 
+https://www.techrepublic.com/blog/10-things/10-things-linux-does-better-than-windows/
