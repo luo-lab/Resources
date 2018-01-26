@@ -7,6 +7,7 @@ The purpose of this repository is to compile resources for newer members to expl
 
 2. Visualizing in Python:
   - Visualizing with Seaborn: https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html 
+      - Changing default visuals for Seaborn: https://seaborn.pydata.org/tutorial/aesthetics.html
   - Plotting pandas dataframes using Seaborn + other miscellaneous packages: https://tomaugspurger.github.io/modern-6-visualization.html
 
 # Terminal
