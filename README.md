@@ -21,6 +21,9 @@ https://explainshell.com/
 1. Additional AMBER tutorials from the Rizzo lab (not the official ones): 
 http://ringo.ams.sunysb.edu/index.php/AMBER_Tutorials
 
+2. Cpptraj
+  - Go to this folder in your amber setup for a LOT of cpptraj code examples (didn't find this till 2nd year, learn from our mistakes -_-): amber16-with-patches/AmberTools/test/cpptraj 
+
 # Programs
 1. Text editor: http://www.sublimetext.com/
 2. Mac terminal emulator (better than default): https://iterm2.com/
