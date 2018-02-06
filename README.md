@@ -17,6 +17,9 @@ https://vim.rtorr.com/
 2. Useful website which explains commands and flags:
 https://explainshell.com/
 
+3. Useful command line shortcuts:
+https://www.techrepublic.com/article/20-terminal-shortcuts-developers-need-to-know/
+
 # AMBER
 1. Additional AMBER tutorials from the Rizzo lab (not the official ones): 
 http://ringo.ams.sunysb.edu/index.php/AMBER_Tutorials
