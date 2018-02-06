@@ -17,7 +17,7 @@ https://vim.rtorr.com/
 2. Useful website which explains commands and flags:
 https://explainshell.com/
 
-3. Useful command line shortcuts:
+3. Useful terminal shortcuts:
 https://www.techrepublic.com/article/20-terminal-shortcuts-developers-need-to-know/
 
 # AMBER
