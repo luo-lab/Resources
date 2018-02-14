@@ -37,6 +37,6 @@ http://ringo.ams.sunysb.edu/index.php/AMBER_Tutorials
 
 # If you still use Windows...
 
-Why Windows sucks: 
+Why you should just stop: 
 1. https://www.lifewire.com/operating-systems-unix-vs-windows-2180225 
 2. https://www.techrepublic.com/blog/10-things/10-things-linux-does-better-than-windows/
