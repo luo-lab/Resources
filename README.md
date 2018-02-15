@@ -8,7 +8,7 @@ The purpose of this repository is to compile resources for newer members to expl
 2. Visualizing in Python:
   - Visualizing with Seaborn: https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html 
       - Changing default visuals for Seaborn: https://seaborn.pydata.org/tutorial/aesthetics.html
-      - Video review of seaborn KDE plot function (bw, kernels, other things not explained well in documentation): https://www.youtube.com/watch?v=-Lt7kpTM-v8
+      -  KDE bandwidth cross-validation (important if your distribtion is not normal): https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html 
   - Plotting pandas dataframes using Seaborn + other miscellaneous packages: https://tomaugspurger.github.io/modern-6-visualization.html
 
 # Terminal
