@@ -6,10 +6,12 @@ The purpose of this repository is to compile resources for newer members to expl
   - This is an intro course from UC Berkeley (CS61a) going over Python and the basics of CS. Reading links and resources are      useful for those with no previous experience in programming. https://cs61a.org/ 
 
 2. Visualizing in Python:
+  - Python Data Science Online Handbook (really good examples/explanations of machine learning, PCA, etc.): https://jakevdp.github.io/PythonDataScienceHandbook/
   - Visualizing with Seaborn: https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html 
       - Changing default visuals for Seaborn: https://seaborn.pydata.org/tutorial/aesthetics.html
       -  KDE bandwidth cross-validation (important if your distribtion is not normal): https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html 
   - Plotting pandas dataframes using Seaborn + other miscellaneous packages: https://tomaugspurger.github.io/modern-6-visualization.html
+
 
 # Terminal
 1. Vim cheat sheet (terminal):
