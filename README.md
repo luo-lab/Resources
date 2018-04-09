@@ -24,10 +24,12 @@ https://explainshell.com/
 https://www.techrepublic.com/article/20-terminal-shortcuts-developers-need-to-know/
 
 # AMBER
-1. Additional AMBER tutorials from the Rizzo lab (not the official ones): 
+1. Official AMBER tutorials: http://ambermd.org/tutorials/Introductory.php 
+
+2. Additional AMBER tutorials from the Rizzo lab (not the official ones): 
 http://ringo.ams.sunysb.edu/index.php/AMBER_Tutorials
 
-2. Cpptraj
+3. Cpptraj
   - Go to this folder in your amber setup for a LOT of cpptraj code examples (didn't find this till 2nd year, learn from our mistakes -_-): amber16-with-patches/AmberTools/test/cpptraj 
 
 # Programs
