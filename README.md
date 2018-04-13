@@ -39,6 +39,10 @@ http://ringo.ams.sunysb.edu/index.php/AMBER_Tutorials
 4. Chimera (visualization software): https://www.cgl.ucsf.edu/chimera/download.html
 5. VMD (visualization software): http://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
 
+# Useful Papers:
+1. Comparison of clustering algorithms: 
+  - Shao, Jianyin, et al. "Clustering molecular dynamics trajectories: 1. Characterizing the performance of different clustering algorithms." Journal of chemical theory and computation 3.6 (2007): 2312-2334. 
+
 # If you still use Windows...
 
 Why you should just stop: 
