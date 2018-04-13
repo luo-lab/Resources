@@ -42,6 +42,7 @@ http://ringo.ams.sunysb.edu/index.php/AMBER_Tutorials
 # Useful Papers:
 1. Comparison of clustering algorithms: 
   - Shao, Jianyin, et al. "Clustering molecular dynamics trajectories: 1. Characterizing the performance of different clustering algorithms." Journal of chemical theory and computation 3.6 (2007): 2312-2334. 
+  - Wolf, Antje, and Karl N. Kirschner. "Principal component and clustering analysis on molecular dynamics data of the ribosomal L11· 23S subdomain." Journal of molecular modeling 19.2 (2013): 539-549.
 
 # If you still use Windows...
 
