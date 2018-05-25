@@ -12,6 +12,8 @@ The purpose of this repository is to compile resources for newer members to expl
       -  KDE bandwidth cross-validation (important if your distribtion is not normal): https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html 
   - Plotting pandas dataframes using Seaborn + other miscellaneous packages: https://tomaugspurger.github.io/modern-6-visualization.html
 
+3. UCI Data Science Workshop jupyter notebooks: https://github.com/UCIDataScienceInitiative 
+
 
 # Terminal
 1. Vim cheat sheet (terminal):
